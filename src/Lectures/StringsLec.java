@@ -1,3 +1,5 @@
+package Lectures;
+
 import java.util.Scanner;
 
 public class StringsLec {
